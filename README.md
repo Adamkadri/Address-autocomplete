@@ -12,19 +12,11 @@ Clone down this repository. You will need node and npm installed globally on you
 
 Installation:
 
-                npm install --force
-
-or
-
-                npm i --force
-
-To Run Test Suite:
-
-npm test
+                yarn install
 
 To Start Server:
 
-npm start
+yarn start
 
 To Visit App:
 
